@@ -1,7 +1,7 @@
--  Hi, I’m @SoaibaN
--  I’m currently learning Computer Science at Columbia 
--  How to reach me: sn3039@columbia.edu
--  Pronouns: she/her
+- Hi, I’m @SoaibaN
+- Computer Science and Applied Math at Columbia Engineering
+- sn3039@columbia.edu
+- she/her
 
 
 <!---
